@@ -1,0 +1,1 @@
+console.log("Green Grill v2 Loaded");
